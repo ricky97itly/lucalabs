@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        lucalabs\Providers\AppServiceProvider::class,
+        lucalabs\Providers\AuthServiceProvider::class,
+        // lucalabs\Providers\BroadcastServiceProvider::class,
+        lucalabs\Providers\EventServiceProvider::class,
+        lucalabs\Providers\RouteServiceProvider::class,
 
     ],
 

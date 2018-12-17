@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace lucalabs\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
